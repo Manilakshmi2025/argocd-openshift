@@ -6,7 +6,7 @@ configmap:
     CUSTOM_HEADER: 'Welcome to NGINX on ROSA! By Manimaran'
 
 image:
-  name: venkateshvgs/rosaargocd
+  name: manimaranjothi/rosaargocd:latest
   tag: latest
 
 secret:
